@@ -5,15 +5,29 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:scaleType="fitCenter"
     tools:context=".activity.LoginActivity">
 
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="290dp"
-        android:background="@drawable/retailsolution"
+        android:scaleType="fitCenter"
+        android:orientation="horizontal"
         >
 
+        <!-- Image View on the Left -->
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/login"
+            android:scaleType="fitEnd"
+            android:layout_gravity="center_vertical"/>
+
+        <!-- Other Views or Content -->
+        <!-- ... -->
+
     </LinearLayout>
+
 
     <ScrollView
         android:layout_width="match_parent"

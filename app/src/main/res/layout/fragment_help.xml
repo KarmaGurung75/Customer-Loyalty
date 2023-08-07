@@ -37,7 +37,7 @@
                 android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
                 android:textAlignment="center"
-                android:text="Comprehensive Retail Solution"
+                android:text="Retail Solution"
                 android:textSize="20sp"
                 android:textColor="#0A1150"
                 android:textStyle="bold|normal"
@@ -83,7 +83,6 @@
                         android:layout_marginRight="10dp"
                         android:layout_marginTop="5dp"
                         android:justificationMode="inter_word"
-                        android:text="Comprehensive Retail Solution (CRS) is a FREE retails solution app available for Android smart phones. Simply sales, purchases and contacts are handled including searchs actions based upon status in very simple steps. It is very hassle free retails solution and privacy has been kept in the top-prior list.. "
 
                         />
 

@@ -127,14 +127,14 @@ public class ShareFragment extends Fragment {
 
         ArrayList names = new ArrayList();
 
-        names.add("Avinash");
-        names.add("Ram");
-            names.add("Shyam");
-        names.add("Harry");
+        names.add("Dipesh");
+        names.add("Pooja");
+        names.add("Shyam");
+        names.add("Nepali");
         names.add("Geeta");
         names.add("Albert");
         names.add("Edwin");
-        names.add("Suhana");
+        names.add("Pema");
         names.add("Shreeya");
         names.add("Loius");
 

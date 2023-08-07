@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Comprehensive Retail Solution</string>
+    <string name="app_name">Retail Solution</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Comprehensive Retail Solution</string>
@@ -7,12 +7,12 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
+    <string name="menu_send">Profile</string>
     <string name="menu_home">Dashboard</string>
     <string name="menu_gallery">Sales</string>
     <string name="menu_slideshow">Purchase</string>
     <string name="menu_tools">Contacts</string>
     <string name="menu_share">Report</string>
-    <string name="menu_send">User Details</string>
     <string name="menu_help">Help \u0026 Support</string>
     <string name="menu_logout">LogOut</string>
     <string name="title_activity_maps">Map</string>

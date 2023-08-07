@@ -186,7 +186,7 @@
                             android:layout_weight="1"
                             android:layout_height="wrap_content"
                             android:text="UNPAID"
-                            android:background="@drawable/buttonbackground"
+                            android:background="@drawable/red_button"
                             android:button="@android:color/transparent"
                             android:textSize="18dp"
 

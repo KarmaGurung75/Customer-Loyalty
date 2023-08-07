@@ -26,16 +26,15 @@
             >
 
 
+            <!-- Name Label -->
+            <!--Vectors added through new drawable folder-->
+
             <ImageView
                 android:id="@+id/imgProfile"
                 android:layout_width="150dp"
-                android:scaleType="fitXY"
-                android:background="@drawable/clogo"
                 android:layout_height="150dp"
-                />
-
-            <!-- Name Label -->
-            <!--Vectors added through new drawable folder-->
+                android:background="@drawable/login"
+                android:scaleType="fitXY" />
 
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"

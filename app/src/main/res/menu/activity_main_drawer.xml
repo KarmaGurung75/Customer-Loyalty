@@ -5,6 +5,10 @@
 
     <group android:checkableBehavior="single">
         <item
+            android:id="@+id/nav_send"
+            android:icon="@drawable/ic_group"
+            android:title="@string/menu_send" />
+        <item
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_home"
             android:title="@string/menu_home" />
@@ -29,10 +33,7 @@
 
                 android:icon="@drawable/ic_pie_chart_black_24dp"
                 android:title="@string/menu_share" />
-            <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_group"
-                android:title="@string/menu_send" />
+
 
             <item
                 android:id="@+id/nav_help"

@@ -9,18 +9,18 @@
     tools:context=".activity.SearchSalesActivity">
 
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="#0D47A1"
-        android:padding="15dp"
-        android:text="'Sales is not about selling anymore, but about building trust and educating.'"
-        android:textSize="18dp"
-        android:textAlignment="center"
-        android:textStyle="bold|normal"
-        android:textColor="#F8F3F3"
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:background="#0D47A1"-->
+<!--        android:padding="15dp"-->
+<!--        android:text="'Sales is not about selling anymore, but about building trust and educating.'"-->
+<!--        android:textSize="18dp"-->
+<!--        android:textAlignment="center"-->
+<!--        android:textStyle="bold|normal"-->
+<!--        android:textColor="#F8F3F3"-->
 
-        />
+<!--        />-->
 
 
     <LinearLayout
